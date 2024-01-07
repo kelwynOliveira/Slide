@@ -6,4 +6,4 @@ The project uses JavaScript to create a Slide.
 
 [Project webpage](https://kelwynoliveira.github.io/Slide/)
 
-[![](./thumb.PNG)](https://kelwynoliveira.github.io/Slide/)
+[![](./thumb.jpg)](https://kelwynoliveira.github.io/Slide/)
